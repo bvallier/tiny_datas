@@ -1,8 +1,8 @@
 id,order,score,weight,color,label
-OP,1.1,59,0.5,#F2ED5B,Open Payments
-CT,1.3,24,0.5,#2BAF4A,Clinical Trials
-AE,2,98,1,#E85050,Adverse Events
-AKS,3,60,1,#FBC13C,Anti-Kickback
-PS,4,74,1,#F15930,Patient Services
-OL,5,70,1,#F68C34,Off-Label
-FFM,6,42,1,#89C444,Field-Force Monitoring
+OP,1.1,59,0.5,#6A8647,Open Payments
+CT,1.3,24,0.5,#FCF4A7,Clinical Trials
+AE,2,98,1,#7A3725,Adverse Events
+AKS,3,60,1,#839BA0,Anti-Kickback
+PS,4,74,1,#CD7044,Patient Services
+OL,5,70,1,#23272D,Off-Label
+FFM,6,42,1,#CBD56B,Field-Force Monitoring
