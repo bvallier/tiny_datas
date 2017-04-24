@@ -7,29 +7,52 @@
     {
      "name": "Dr. Francis Collins",
      "children": [
-      {"name": "Novo Nordisk Inc", "size": 3938},
-      {"name": "Tandem Diabetes Care, Inc", "size": 3812},
+      {"name": "Novo Nordisk Inc.", "size": 3938},
+      {"name": "Tandem Diabetes Care Inc.", "size": 3812},
       {"name": "Sanofi-Aventis U.S. LLC", "size": 6714},
-      {"name": "Janssen Pharmaceuticals, Inc", "size": 743},
+      {"name": "Janssen Pharmaceuticals Inc.", "size": 743},
       {"name": "Glaxosmithkline, LLC", "size": 3938}
      ]
     },
     {
-     "name": "Dr. Merideth Jumo",
+     "name": "Dr. Daniel Bandari",
      "children": [
-      {"name": "BetweennessCentrality", "size": 3534},
-      {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
-      {"name": "ShortestPaths", "size": 5914},
-      {"name": "SpanningTree", "size": 3416}
+      {"name": "Teva Pharmaceuticals, USA Inc.", "size": 3534},
+      {"name": "Genzyme Corporation", "size": 5731},
+      {"name": "Biogen Inc.", "size": 7840},
+      {"name": "EMD Serono Inc.", "size": 5914},
+      {"name": "Mallinckrodt, LLC", "size": 3416}
      ]
     },
     {
-     "name": "Dr. Frank Bard",
+     "name": "Dr. Anas Younes",
      "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
+      {"name": "Takeda Pharmaceutical Company, Limited", "size": 7074},
+      {"name": "Gilead Sciences Inc.", "size": 7074},
+      {"name": "Bayer Healthcare Pharmaceuticals Inc.", "size": 7074},
+      {"name": "Incyte Corporation", "size": 7074},
+      {"name": "Millennium Pharmaceuticals, Inc.", "size": 7074}
      ]
-    }
+    },
+     {
+     "name": "Dr. Leon Kircik",
+     "children": [
+      {"name": "Bayer Healthcare Pharmaceuticals Inc.", "size": 7074},
+      {"name": "Galderma Laboratories, L.P.", "size": 7074},
+      {"name": "Amgen Inc.", "size": 7074},
+      {"name": "Allergan Inc.", "size": 7074},
+      {"name": "Celgene Corporation", "size": 7074}
+     ]
+    },
+    {
+     "name": "Dr. David Rizzieri",
+     "children": [
+      {"name": "Incyte Corporation", "size": 7074},
+      {"name": "Seattle Genetics, Inc.", "size": 7074},
+      {"name": "Celgene Corporation", "size": 7074},
+      {"name": "Novartis Pharmaceuticals Corporation", "size": 7074},
+      {"name": "Gilead Sciences Inc.", "size": 7074}
+     ]
    ]
   },
   {
