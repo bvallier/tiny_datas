@@ -27,31 +27,31 @@
     {
      "name": "Dr. Anas Younes",
      "children": [
-      {"name": "Takeda Pharmaceutical Company, Limited", "size": 7074},
-      {"name": "Gilead Sciences Inc.", "size": 7074},
-      {"name": "Bayer Healthcare Pharmaceuticals Inc.", "size": 7074},
-      {"name": "Incyte Corporation", "size": 7074},
-      {"name": "Millennium Pharmaceuticals, Inc.", "size": 7074}
+      {"name": "Takeda Pharmaceutical Company, Limited", "size": 3509},
+      {"name": "Gilead Sciences Inc.", "size": 6492},
+      {"name": "Bayer Healthcare Pharmaceuticals Inc.", "size": 1369},
+      {"name": "Incyte Corporation", "size": 8372},
+      {"name": "Millennium Pharmaceuticals, Inc.", "size": 1582}
      ]
     },
      {
      "name": "Dr. Leon Kircik",
      "children": [
-      {"name": "Bayer Healthcare Pharmaceuticals Inc.", "size": 7074},
-      {"name": "Galderma Laboratories, L.P.", "size": 7074},
-      {"name": "Amgen Inc.", "size": 7074},
-      {"name": "Allergan Inc.", "size": 7074},
-      {"name": "Celgene Corporation", "size": 7074}
+      {"name": "Bayer Healthcare Pharmaceuticals Inc.", "size": 9372},
+      {"name": "Galderma Laboratories, L.P.", "size": 6823},
+      {"name": "Amgen Inc.", "size": 1996},
+      {"name": "Allergan Inc.", "size": 3200},
+      {"name": "Celgene Corporation", "size": 6623}
      ]
     },
     {
      "name": "Dr. David Rizzieri",
      "children": [
-      {"name": "Incyte Corporation", "size": 7074},
-      {"name": "Seattle Genetics, Inc.", "size": 7074},
-      {"name": "Celgene Corporation", "size": 7074},
-      {"name": "Novartis Pharmaceuticals Corporation", "size": 7074},
-      {"name": "Gilead Sciences Inc.", "size": 7074}
+      {"name": "Incyte Corporation", "size": 6231},
+      {"name": "Seattle Genetics, Inc.", "size": 6982},
+      {"name": "Celgene Corporation", "size": 6620},
+      {"name": "Novartis Pharmaceuticals Corporation", "size": 8272},
+      {"name": "Gilead Sciences Inc.", "size": 9185}
      ]
     },
    ]
