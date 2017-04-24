@@ -7,10 +7,11 @@
     {
      "name": "Dr. Francis Collins",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "Novo Nordisk Inc", "size": 3938},
+      {"name": "Tandem Diabetes Care, Inc", "size": 3812},
+      {"name": "Sanofi-Aventis U.S. LLC", "size": 6714},
+      {"name": "Janssen Pharmaceuticals, Inc", "size": 743},
+      {"name": "Glaxosmithkline, LLC", "size": 3938}
      ]
     },
     {
