@@ -1,22 +1,22 @@
 {
-"emails": [
-{
-"group": "Today April 23",
-"list": [
-{
-"id": 1,
-"subject": "Claim # 10773",
-"to": [
-"Puerto Rico Electric Power Authority"
-],
-"body": "<p>Creditor<br />5 Star Life Insurance Company <br />c/o Kimberley Wooding<br />Executive Vice President & CFO<br />909 N. Washington Street<br />Alexandria, VA 22314</p>",
-"time": "$405,000",
-"datetime": "05/09/2018",
-"from": "5 Star Life Insurance Company",
-"dp": "Link to PDF on PERLA",
-"dpRetina": ""
-},
-]
-}
-]
+  "emails": [
+    {
+      "group": "Today April 23",
+      "list": [
+        {
+          "id": 1,
+          "subject": "Claim # 10773",
+          "to": [
+          "Puerto Rico Electric Power Authority"
+          ],
+          "body": "<p>Creditor<br />5 Star Life Insurance Company <br />c/o Kimberley Wooding<br />Executive Vice President & CFO<br />909 N. Washington Street<br />Alexandria, VA 22314</p>",
+          "time": "$405,000",
+          "datetime": "05/09/2018",
+          "from": "5 Star Life Insurance Company",
+          "dp": "Link to PDF on PERLA",
+          "dpRetina": ""
+        }
+      ]
+    }
+  ]
 }
