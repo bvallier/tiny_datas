@@ -9,12 +9,7 @@
 "to": [
 "Puerto Rico Electric Power Authority"
 ],
-"body": `<p>Creditor
-5 Star Life Insurance Company 
-c/o Kimberley Wooding
-Executive Vice President & CFO
-909 N. Washington Street
-Alexandria, VA 22314</p>`,
+"body": "<p>Creditor<br />5 Star Life Insurance Company <br />c/o Kimberley Wooding<br />Executive Vice President & CFO<br />909 N. Washington Street<br />Alexandria, VA 22314</p>",
 "time": "5 Mins ago",
 "datetime": "Today at 1:33pm",
 "from": "5 Star Life Insurance Company",
