@@ -5,17 +5,21 @@
 "list": [
 {
 "id": 1,
-"subject": "Pages - Multi-Purpose Admin Template Revolution Begins here!",
+"subject": "Claim # 10773",
 "to": [
-"David Nester",
-"Jane Smith"
+"Puerto Rico Electric Power Authority"
 ],
-"body": "<p>Dear Sir or Madam:<br></p><p><br>I have recently ordered a new pair of soccer cleats (item #6542951) from your website on June 21. I received the order on June 26. Unfortunately, when I opened it, I saw that the cleats were used. The cleats had dirt all over it and there was a small tear in front of the part where the left toe would go.  My order number is AF26168156.<br></p><p><br>To resolve the problem, I would like you to credit my account for the amount charged for my cleats; I have already went out and bought a new pair of cleats at my local sporting goods store so sending another would result in me having two pairs of the same cleats.<br></p><p><br>Than you for taking the time to read this letter.  I have been a satisfied customer of your company for many years and this is the first time I have encountered a problem.  If you need to contact me, you can reach me at (555) 555-5555.<br><br><br><br>Sincerely,<br></p><p><br><i>Signature</i></p> ",
+"body": `<p>Creditor
+5 Star Life Insurance Company 
+c/o Kimberley Wooding
+Executive Vice President & CFO
+909 N. Washington Street
+Alexandria, VA 22314</p>`,
 "time": "5 Mins ago",
 "datetime": "Today at 1:33pm",
-"from": "David Nester",
-"dp": "assets/img/profiles/avatar.jpg",
-"dpRetina": "assets/img/profiles/avatar2x.jpg"
+"from": "5 Star Life Insurance Company",
+"dp": "Link to PDF on PERLA",
+"dpRetina": ""
 },
 {
 "id": 2,
